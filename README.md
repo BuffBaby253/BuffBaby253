@@ -1,5 +1,5 @@
 # github@buffbaby253~ $ sudo nano README.md
-## enter password: *****
+# enter password: *****
 
 
 So here's some Things About Me:
