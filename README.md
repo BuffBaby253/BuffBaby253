@@ -3,10 +3,10 @@
 
 
 So here's some Things About Me:
-- What started from wanting free wifi turned into a passion
-- I love hacking, programming and all things computers
-- I look forward to expand my work here learning new things
-- My interest is in cybersecurity but enjoy making different projects
+- Started from wanting free wifi
+- I love hacking, programming & hardware
+- I love to develop all types of different projects
+- My interest is in cybersecurity but open to learn new things
 - Been mostly self taught
 
 
